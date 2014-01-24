@@ -146,6 +146,9 @@ GEM
     will_paginate-bootstrap (1.0.0)
       will_paginate (>= 3.0.3)
 
+PLATFORMS
+  x86-mingw32
+
 DEPENDENCIES
   aws-sdk (~> 1.20.0)
   bootstrap-sass (~> 3.0.3.0)
